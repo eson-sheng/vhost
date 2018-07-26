@@ -21,7 +21,7 @@ mynote 项目
 - **mynote_res_82.conf**  
 类库文件项目
 
-- **pjkit_84.conf**
+- **pjkit_84.conf**  
 票据客测试
 
 - **xjc_89.conf**  

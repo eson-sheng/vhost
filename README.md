@@ -30,5 +30,5 @@ mynote 项目
 - **zent_83.conf**  
 禅道管理系统 - mynote
 
-- **zent_88.conf**
+- **zent_88.conf**  
 禅道管理系统 - 小叫车
